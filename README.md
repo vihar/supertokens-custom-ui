@@ -5,3 +5,21 @@ This is an example repository for authenticating users using [`supertokens-websi
 The demo app can be viewd here: https://supertokens-ui.vercel.app/
 
 ### How to use
+
+- Clone the repository
+
+```
+git clone https://github.com/vihar/supertokens-custom-ui.git
+```
+
+- Installation (yarn/npm)
+
+```
+yarn install
+```
+
+- Development
+
+```
+yarn start
+```
