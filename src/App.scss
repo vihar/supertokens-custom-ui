@@ -1,0 +1,21 @@
+@import "./bootstrap.override.scss";
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "react-toastify/dist/ReactToastify.css";
+
+.App {
+  background-color: white;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
+
+.custom-navbar {
+  width: 100%;
+  margin-bottom: 10px;
+  height: 100px;
+}
